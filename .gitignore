@@ -10,12 +10,14 @@ build/
 .classpath
 .factorypath
 .project
-.settings
+.settings/
 .springBeans
 .sts4-cache
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
+node_modules/
+.tern-project
 
 ### IntelliJ IDEA ###
 .idea
